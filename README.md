@@ -1,0 +1,2 @@
+- Hi, I’m @Oleg-Neevin
+- I'm a beginner and currently learning Golang
